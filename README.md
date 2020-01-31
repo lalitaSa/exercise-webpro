@@ -1,12 +1,12 @@
 # Features
-## - Check
+##  Check
   <br>- Teacher login
   <br>- Subject detail
   <br>- QR code
-## - Report
+##  Report
   <br>- Dash Board
   <br>- earch & export
-## - Manage
+##  Manage
   <br>- All student
   <br>- Add student
   <br>- Edit student
