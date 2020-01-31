@@ -1,15 +1,15 @@
 Features
 ⋅⋅*Check
-  ..1.)Teacher login
-  ..1.)Subject detail
-  ..1.)QR code
+  <br>Teacher login
+  <br>Subject detail
+  <br>QR code
 ⋅⋅*Report
-  ..1.)Dash Board
-  ..1.)earch & export
+  <br>Dash Board
+  <br>earch & export
 ⋅⋅*Manage
-  ..1.)All student
-  ..1.)Add student
-  ..1.)Edit student
-  ..1.)All subject
-  ..1.)Add subject
-  ..1.)Edit subject
+  <br>All student
+  <br>Add student
+  <br>Edit student
+  <br>All subject
+  <br>Add subject
+  <br>Edit subject
